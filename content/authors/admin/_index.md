@@ -48,7 +48,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=FIJg590AAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/erinnawrocki
+  link: https://www.linkedin.com/in/erinnawrocki
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
