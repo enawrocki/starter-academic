@@ -72,8 +72,8 @@ abstract: Botulinum neurotoxins (BoNTs), produced by anaerobic bacteria, are the
   spectrometry analysis indicated that the toxin preparation contained only BoNT/FA
   and confirmed catalytic activity analogous to that of BoNT/F5. The in vivo mouse
   bioassay indicated a specific activity of this toxin of 3.8 × 10 7 mouse 50% lethal
-  dose (mLD 50 ) units/mg, whereas activity in cultured human neurons was very high
-  (50% effective concentration [EC 50 ] = 0.02 mLD 50 /well). Neutralization assays
+  dose (mLD 50) units/mg, whereas activity in cultured human neurons was very high
+  (50% effective concentration [EC 50] = 0.02 mLD 50 /well). Neutralization assays
   in cells and mice both indicated full neutralization by various antibodies raised
   against BoNT/A1, although at 16- to 20-fold-lower efficiency than for BoNT/A1. IMPORTANCE
   Botulinum neurotoxins (BoNTs), produced by anaerobic bacteria, are the cause of

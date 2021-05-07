@@ -37,9 +37,9 @@ abstract: Resveratrol, a polyphenolic phytoalexin, is produced by plants in resp
   bacterium that is the causative agent of the sexually transmitted disease chancroid.
   This study employed minimum cidal concentration (MCC) assays to evaluate the potential
   of resveratrol as a microbicide against H. ducreyi. Five class I and four class
-  II strains of H. ducreyi tested had MCCs ≤500 $μ$g/mL. Resveratrol was also tested
+  II strains of H. ducreyi tested had MCCs ≤500 μg/mL. Resveratrol was also tested
   against Lactobacillus spp., part of the natural vaginal flora. Representative strains
-  of Lactobacillus were co-cultured with H. ducreyi and 500 $μ$g/mL resveratrol; in
+  of Lactobacillus were co-cultured with H. ducreyi and 500 μg/mL resveratrol; in
   all cases, Lactobacillus was recovered in greater numbers than H. ducreyi. These
   results show that resveratrol is not only bacteriostatic but is bactericidal to
   H. ducreyi, confirming the compound's potential for use as a topical microbicide
