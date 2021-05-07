@@ -64,7 +64,7 @@ email: ""
 highlight_name: false
 ---
 
-Erin Nawrocki is a postdoctoral scholar in the Dudley Lab at Penn State University. Her research interests include bacterial genetics, genomics, and molecular biology. Erin's current work characterizes an intraspecies interaction in which commensal *E. coli* can enhance the virulence of *E. coli* O157:H7. 
+Dr. Erin M. Nawrocki is a postdoctoral scholar in the Dudley Lab at Penn State University. Her research interests include bacterial genetics, genomics, and molecular biology. Erin's current work characterizes an intraspecies interaction in which commensal *E. coli* can enhance the virulence of *E. coli* O157:H7. 
 <!-- Erin is now studying *E. coli* genes associated with adherence to bovine cells as part of a USDA-NIFA postdoctoral fellowship. -->
 
 Erin completed her Ph.D. in the University of Wisconsin-Madison's Microbiology Doctoral Training Program, where she researched the host range and mobilization of plasmids that encode botulinum neurotoxin.
