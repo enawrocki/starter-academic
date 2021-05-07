@@ -41,8 +41,7 @@ abstract: 'Enterohemorrhagic Escherichia coli (EHEC) strains, including E. coli 
   outcomes: some infections are relatively mild, while others have serious complications.
   Probiotic organisms, members of the gut microbiome, and organic acids can depress
   Stx production, in many cases by inhibiting the growth of EHEC strains. On the other
-  hand, the factors currently known to amplify Stx act via their effect on the stx
-  -converting phage. Here, we characterize two interactive mechanisms that increase
+  hand, the factors currently known to amplify Stx act via their effect on the stx-converting phage. Here, we characterize two interactive mechanisms that increase
   Stx production by O157:H7 strains: first, direct interactions with phage-susceptible
   E. coli, and second, indirect amplification by secreted factors. Infection of susceptible
   strains by the stx-converting phage can expand the Stx-producing population in
