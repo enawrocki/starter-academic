@@ -44,10 +44,10 @@ abstract: 'Enterohemorrhagic Escherichia coli (EHEC) strains, including E. coli 
   hand, the factors currently known to amplify Stx act via their effect on the stx
   -converting phage. Here, we characterize two interactive mechanisms that increase
   Stx production by O157:H7 strains: first, direct interactions with phage-susceptible
-  E. coli , and second, indirect amplification by secreted factors. Infection of susceptible
-  strains by the stx -converting phage can expand the Stx-producing population in
+  E. coli, and second, indirect amplification by secreted factors. Infection of susceptible
+  strains by the stx-converting phage can expand the Stx-producing population in
   a human or animal host, and phage infection has been shown to modulate virulence
-  in vitro and in vivo . Acellular factors, particularly colicins and microcins, can
+  in vitro and in vivo. Acellular factors, particularly colicins and microcins, can
   kill O157:H7 cells but may also trigger Stx expression in the process. Colicins,
   microcins, and other bacteriocins have diverse cellular targets, and many such molecules
   remain uncharacterized. The identification of additional Stx-amplifying microbial
