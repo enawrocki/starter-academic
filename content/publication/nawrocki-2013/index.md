@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Resveratrol is cidal to both classes of Haemophilus ducreyi
+title: Resveratrol is cidal to both classes of *Haemophilus ducreyi*
 subtitle: ''
 summary: ''
 authors:
@@ -33,16 +33,16 @@ publishDate: '2021-05-07T15:29:19.641601Z'
 publication_types:
 - '2'
 abstract: Resveratrol, a polyphenolic phytoalexin, is produced by plants in response
-  to infection and has antibacterial activity. Haemophilus ducreyi is a Gram-negative
+  to infection and has antibacterial activity. *Haemophilus ducreyi* is a Gram-negative
   bacterium that is the causative agent of the sexually transmitted disease chancroid.
   This study employed minimum cidal concentration (MCC) assays to evaluate the potential
-  of resveratrol as a microbicide against H. ducreyi. Five class I and four class
-  II strains of H. ducreyi tested had MCCs ≤500 μg/mL. Resveratrol was also tested
-  against Lactobacillus spp., part of the natural vaginal flora. Representative strains
-  of Lactobacillus were co-cultured with H. ducreyi and 500 μg/mL resveratrol; in
-  all cases, Lactobacillus was recovered in greater numbers than H. ducreyi. These
+  of resveratrol as a microbicide against *H. ducreyi*. Five class I and four class
+  II strains of *H. ducreyi* tested had MCCs ≤500 μg/mL. Resveratrol was also tested
+  against *Lactobacillus* spp., part of the natural vaginal flora. Representative strains
+  of *Lactobacillus* were co-cultured with *H. ducreyi* and 500 μg/mL resveratrol; in
+  all cases, *Lactobacillus* was recovered in greater numbers than *H. ducreyi*. These
   results show that resveratrol is not only bacteriostatic but is bactericidal to
-  H. ducreyi, confirming the compound's potential for use as a topical microbicide
+  *H. ducreyi*, confirming the compound's potential for use as a topical microbicide
   to prevent chancroid. © 2013 Elsevier B.V. and the International Society of Chemotherapy.
 publication: '*International Journal of Antimicrobial Agents*'
 doi: 10.1016/j.ijantimicag.2013.02.008
