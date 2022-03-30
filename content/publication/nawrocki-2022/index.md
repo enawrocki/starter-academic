@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Mcc1229, an Stx2a-Amplifying Microcin, Is Produced *In Vivo* and Requires CirA
+title: Mcc1229, an Stx2a-Amplifying Microcin, Is Produced In Vivo and Requires CirA
   for Activity
 subtitle: ''
 summary: ''
