@@ -64,7 +64,7 @@ email: ""
 highlight_name: true
 ---
 
-Dr. Erin M. Nawrocki is a scientist in the Cooper Lab at the University of Pittsburgh. Her research interests include bacterial genetics, genomics, and molecular biology. Erin's recent work in the Dudley Lab at Penn State involved characterization of an intraspecies interaction in which commensal *E. coli* enhanced the virulence of *E. coli* O157:H7. Erin also studied *E. coli* genes associated with adherence to bovine cells as part of a USDA-NIFA postdoctoral fellowship.
+Dr. Erin M. Nawrocki is a scientist in the Cooper Lab at the University of Pittsburgh. Her research interests include bacterial genetics, genomics, and molecular biology. Erin's prior work in the Dudley Lab at Penn State involved characterization of an intraspecies interaction in which commensal *E. coli* enhanced the virulence of *E. coli* O157:H7. Erin also studied *E. coli* genes associated with adherence to bovine cells as part of a USDA-NIFA postdoctoral fellowship.
 
 Erin completed her Ph.D. in the University of Wisconsin-Madison's Microbiology Doctoral Training Program, where she researched the host range and mobilization of plasmids that encode botulinum neurotoxin.
 
