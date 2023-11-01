@@ -6,12 +6,12 @@ title: Erin Nawrocki
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Staff Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Penn State University
-  url: https://www.psu.edu/
+- name: University of Pittsburgh
+  url: https://www.mmg.pitt.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: Microbe enthusiast
@@ -42,7 +42,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ErinNawrocki
+  link: https://x.com/ErinNawrocki
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=FIJg590AAAAJ
@@ -64,7 +64,7 @@ email: ""
 highlight_name: true
 ---
 
-Dr. Erin M. Nawrocki is a postdoctoral scholar in the Dudley Lab at Penn State University. Her research interests include bacterial genetics, genomics, and molecular biology. Erin's recent work characterized an intraspecies interaction in which commensal *E. coli* enhanced the virulence of *E. coli* O157:H7. Erin is now studying *E. coli* genes associated with adherence to bovine cells as part of a USDA-NIFA postdoctoral fellowship.
+Dr. Erin M. Nawrocki is a scientist in the Cooper Lab at the University of Pittsburgh. Her research interests include bacterial genetics, genomics, and molecular biology. Erin's recent work in the Dudley Lab at Penn State involved characterization of an intraspecies interaction in which commensal *E. coli* enhanced the virulence of *E. coli* O157:H7. Erin also studied *E. coli* genes associated with adherence to bovine cells as part of a USDA-NIFA postdoctoral fellowship.
 
 Erin completed her Ph.D. in the University of Wisconsin-Madison's Microbiology Doctoral Training Program, where she researched the host range and mobilization of plasmids that encode botulinum neurotoxin.
 
